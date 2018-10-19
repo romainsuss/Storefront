@@ -1,0 +1,1 @@
+Regression robuste pour différencier les deals 
