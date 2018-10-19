@@ -1,10 +1,10 @@
 # Storefront-
 
-Projet 1
-Predicteur success/failed 
 
-Projet 2 
-Time to win 
+Predicteur_deals : Projet 1 
 
-Projet 3 
-Regression robuste -> clustering deal 
+
+Time to win : Projet 2 
+
+
+Regression robuste -> clustering deal : Projet 3
